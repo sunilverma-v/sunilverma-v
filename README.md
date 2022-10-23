@@ -67,12 +67,20 @@
 </td>
     </tr>
 </table>
-----
+
+__________________________________________________________________________________________________
+
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilverma-v&theme=github_dark&layout=compact" width="495" alt="sunilverma-v" ></p>
+
+__________________________________________________________________________________________________
+
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=sunilverma-v&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" width="495" alt="sunilverma-v" ></p>
+
+__________________________________________________________________________________________________
+
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sunilverma-v&theme=github-dark-blue&hide_border=true" width="495" alt="sunilverma-v" ></p>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sunilverma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sunilverma" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilverma-v&show_icons=true&locale=en&layout=compact" alt="sunilverma-v" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilverma-v&show_icons=true&locale=en" alt="sunilverma-v" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilverma-v&" alt="sunilverma-v" /></p>
